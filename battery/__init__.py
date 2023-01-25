@@ -1,5 +1,5 @@
 from car import Car
 
-class Engine(Car):
-    def needs_service():
+class Battery(Car):
+    def needs_service(self):
         return super().needs_service()

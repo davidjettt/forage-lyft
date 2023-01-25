@@ -1,0 +1,2 @@
+class CarFactory:
+    pass
